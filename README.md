@@ -1,6 +1,6 @@
 # Document Plugin for [Flextype](http://flextype.org/)
-![version](https://img.shields.io/badge/version-1.0.1-brightgreen.svg?style=flat-square)
-![Flextype](https://img.shields.io/badge/Flextype-0.7,0-green.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square)
+![Flextype](https://img.shields.io/badge/Flextype-0.8.0-green.svg?style=flat-square)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 Document plugin allows you to embed various types of documents using Google Document Viewer.
