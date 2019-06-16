@@ -1,4 +1,4 @@
 {
-  "tiny_url": "Document",
-  "tiny_url_description": "Document plugin allows you to embed various types of documents using Google Document Viewer"
+  "document_url": "Document",
+  "document_description": "Document plugin allows you to embed various types of documents using Google Document Viewer"
 }
