@@ -1,6 +1,6 @@
 # Document Plugin for [Flextype](http://flextype.org/)
-![version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg?style=flat-square)
-![Flextype](https://img.shields.io/badge/Flextype-0.9.3-green.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.4.0-brightgreen.svg?style=flat-square)
+![Flextype](https://img.shields.io/badge/Flextype-0.9.4-green.svg?style=flat-square)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 Document plugin allows you to embed various types of documents using Google Document Viewer.
@@ -25,12 +25,9 @@ Display document
 
 enabled: true or false to disable the plugin
 
-```json
-{
-    "enabled": true
-}
-
+```yaml
+enabled: true
 ```
 
-## License
-See [LICENSE](https://github.com/flextype-plugins/document/blob/master/LICENSE)
+## LICENSE
+[The MIT License (MIT)](https://github.com/flextype-plugins/sitemap/blob/master/LICENSE) Copyright (c) 2018-2019 [Sergey Romanenko](https://github.com/Awilum)

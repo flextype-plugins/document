@@ -1,3 +1,6 @@
+# v1.4.0, 2019-09-17
+* Updates for Flextype 0.9.4
+
 # v1.3.0, 2019-07-08
 * Updates for Flextype 0.9.3
 

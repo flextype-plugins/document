@@ -1,0 +1,11 @@
+name: Document
+version: 1.4.0
+description: Document plugin allows you to embed various types of documents using
+  Google Document Viewer
+author:
+  name: Sergey Romanenko
+  email: awilum@yandex.ru
+  url: http://flextype.org
+homepage: https://github.com/flextype-plugins/document
+bugs: https://github.com/flextype-plugins/document/issues
+license: MIT
