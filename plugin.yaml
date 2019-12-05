@@ -1,7 +1,7 @@
 name: Document
-version: 1.4.0
-description: Document plugin allows you to embed various types of documents using
-  Google Document Viewer
+version: 1.5.0
+icon: fas fa-book
+description: Document plugin allows you to embed various types of documents using Google Document Viewer
 author:
   name: Sergey Romanenko
   email: awilum@yandex.ru
